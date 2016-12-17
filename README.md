@@ -1,0 +1,2 @@
+# SidebarAdapt
+Toggles reddit sidebar.
